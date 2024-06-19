@@ -1,4 +1,4 @@
-<h1 align="center"> React / Pagina Space-APP / PROGRAMA ONE - ALURA </h1>
+<h1 align="center"> PROGRAMA ONE - ALURA </h1>
 
  <h1 align="center"> Front End G6 - ONE </h1>
 
@@ -31,7 +31,7 @@ El proyecto del curso es Implementar: React
 <div align="center">
   <h3>
     <a href="https://space-app-blond.vercel.app/" >
-      🔗 Visitar la Pagina Org
+      🔗 Visitar la Pagina Space APP
     </a>
 </div>
 <br />
